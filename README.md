@@ -1,33 +1,33 @@
-**Weather Application**
+## **Weather Application**
 
 * This is a simple weather application built using Python and Tkinter GUI library. 
 * It fetches weather data from the OpenWeatherMap API based on 
 * user input and displays the current weather information.
 
-**Features**
+## **Features**
 
 * Get current weather information for a specific city
 * Display city name, country, temperature in Celsius, weather icon, and weather description
 
-**Prerequisites**
+## **Prerequisites**
 
 * Python 3.x
 * PIL (Pillow) library
 * requests library
 
-**Installation**
+## **Installation**
 
 1. Clone the repository or download the source code.
 
 2. Install the required dependencies using pip:
-     **pip install Pillow requests**
+     ```pip install Pillow requests```
 3. Obtain an API key from OpenWeatherMap by creating an account.
 
 4. Update the config.ini file with your API key:
-       **[api_key]**
+       ```**```[api_key]```**```
    ````key = YOUR_API_KEY````
 
-**Usage**
+## **Usage**
 
 1. Run the weather.py file:
     **python weather.py**
@@ -38,7 +38,7 @@
 4. The application will display the location, weather icon, temperature, and weather 
 description for the entered city.
 
-**License**
+## **License**
 
 This project is licensed under the MIT License.
 
