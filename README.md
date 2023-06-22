@@ -2,7 +2,7 @@
 
 * This is a simple weather application built using Python and Tkinter GUI library. 
 * It fetches weather data from the OpenWeatherMap API based on 
-* user input and displays the current weather information.
+user input and displays the current weather information.
 
 ## **Features**
 
