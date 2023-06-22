@@ -4,6 +4,9 @@ from configparser import ConfigParser
 import requests
 from PIL import Image, ImageTk
 
+
+
+
 url = 'https://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
 config_file = 'config.ini'
