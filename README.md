@@ -24,7 +24,7 @@
 3. Obtain an API key from OpenWeatherMap by creating an account.
 
 4. Update the config.ini file with your API key:
-       ```**```[api_key]```**```
+       ```[api_key]```
    ````key = YOUR_API_KEY````
 
 ## **Usage**
